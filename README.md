@@ -1,7 +1,7 @@
 # nonprofit_revenue_scraping
 
 I wrote this code to scrape a list of environmental nonprofits' 2020 revenues
-from GuideStar, which is the best nonprofit data repository. I used Pandas, 
+from GuideStar, a comprehensive nonprofit data repository. I used Pandas, 
 BeautifulSoup, and Selenium webdrivers. I used the webdriver to log into my
 paid Guidestar account and then navigate to the search bar using HTML tags.
 I then searched for each nonprofit's name in the GuideStar search bar and accessed
